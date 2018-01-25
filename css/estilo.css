@@ -1,1 +1,7 @@
-ECHO est  activado.
+*{
+	background-color: red;
+}
+
+p{
+	color: blue;
+}
